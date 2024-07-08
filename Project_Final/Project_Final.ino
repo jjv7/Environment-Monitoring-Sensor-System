@@ -19,7 +19,7 @@
 
 Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_MOSI, TFT_SCLK, TFT_RST);
 
-//BME680 Setup
+//BME280 Setup
 Adafruit_BME280 bme;
 #define SeaLevel_HPA (1013.25)
 
