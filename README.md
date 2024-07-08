@@ -49,3 +49,6 @@ This project utilises the following libraries:
    - Select Tools > Board > Arduino Due (Programming Port).
    - Select the appropriate port under Tools > Port.
    - Click on the Upload button.
+
+# License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/jjv7/Environment-Monitoring-Sensor-System/blob/main/LICENSE) file for details.
