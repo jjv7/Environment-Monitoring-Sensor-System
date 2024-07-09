@@ -2,21 +2,21 @@
 This project is a basic environmental monitoring sensor system and data logger built with an Arduino Due, capable of measuring temperature, humidity, pressure, and light intensity using various sensors.
 The system is programmed through the use of an SDI-12 line on Serial1
 
-# Collaborators
+## Collaborators
 - Jayden Kong
 - Nok Soen Enoch Chan
 - Cao Minh Vu
 - Dilan Augustin
 - Aryan Sivakumar
 
-# Components
+## Components
 - Arduino Due
 - Fermion: 1.8" 128x160 IPS TFT LCD Display with MicroSD Card Slot (SPI)
 - DS1307 - Real Time Clock Module (I2C)
 - BME280 - Temperature, humidity, and barometric pressure sensor (I2C)
 - BH1750FVI - Digital Light intensity Sensor (I2C)
 
-# Libraries
+## Libraries
 This project utilises the following libraries:
 - [DueTimer by IvanSeidel](https://github.com/ivanseidel/DueTimer)
 - [Adafruit BME280 Library by Adafruit](https://github.com/adafruit/Adafruit_BME280_Library)
@@ -25,7 +25,7 @@ This project utilises the following libraries:
 - [RTCLib by Adafruit](https://github.com/adafruit/RTClib)
 - [SdFat by Bill Greiman](https://github.com/greiman/SdFat)
 
-# Installation
+## Installation
 1. Clone the repository
 
 2. Install the required libraries:
@@ -50,5 +50,5 @@ This project utilises the following libraries:
    - Select the appropriate port under Tools > Port.
    - Click on the Upload button.
 
-# License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
