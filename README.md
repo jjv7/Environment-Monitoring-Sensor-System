@@ -51,4 +51,4 @@ This project utilises the following libraries:
    - Click on the Upload button.
 
 # License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/jjv7/Environment-Monitoring-Sensor-System/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
