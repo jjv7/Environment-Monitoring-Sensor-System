@@ -18,12 +18,12 @@ The system is programmed through the use of an SDI-12 line on Serial1
 
 ## Libraries
 This project utilises the following libraries:
-- [DueTimer by IvanSeidel](https://github.com/ivanseidel/DueTimer)
-- [Adafruit BME280 Library by Adafruit](https://github.com/adafruit/Adafruit_BME280_Library)
-- [BH1750 by Christopher Laws](https://github.com/claws/BH1750)
-- [Adafruit ImageReader Library by Adafruit](https://github.com/adafruit/Adafruit_ImageReader)
-- [RTCLib by Adafruit](https://github.com/adafruit/RTClib)
-- [SdFat by Bill Greiman](https://github.com/greiman/SdFat)
+- [DueTimer (1.4.7) by IvanSeidel](https://github.com/ivanseidel/DueTimer)
+- [Adafruit BME280 Library (2.2.4) by Adafruit](https://github.com/adafruit/Adafruit_BME280_Library)
+- [BH1750 (1.3.0) by Christopher Laws](https://github.com/claws/BH1750)
+- [Adafruit ImageReader Library (2.8.1) by Adafruit](https://github.com/adafruit/Adafruit_ImageReader)
+- [RTCLib (2.1.1) by Adafruit](https://github.com/adafruit/RTClib)
+- [SdFat (2.2.2) by Bill Greiman](https://github.com/greiman/SdFat)
 
 ## Installation
 1. Clone the repository
