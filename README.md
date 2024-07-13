@@ -1,5 +1,5 @@
 # Environment-Monitoring-Sensor-System
-This project is a basic environmental monitoring sensor system and data logger built with an Arduino Due, capable of measuring temperature, humidity, pressure, and light intensity using various sensors.
+This project is a real-time environmental monitoring sensor system and data logger built with an Arduino Due, capable of measuring temperature, humidity, pressure, and light intensity using various sensors.
 The system is programmed through the use of an SDI-12 line on Serial1
 
 ## Collaborators
