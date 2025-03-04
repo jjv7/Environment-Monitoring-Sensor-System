@@ -3,9 +3,9 @@ This project is a real-time environmental monitoring sensor system and data logg
 The system is programmed through the use of an SDI-12 line on Serial1
 
 ## Collaborators
-- Jayden Kong
-- Nok Soen Enoch Chan
-- Cao Minh Vu
+- [Jayden Kong](https://github.com/jjv7)
+- [Nok Soen Enoch Chan](https://github.com/Hex-Itsuka)
+- [Cao Minh Vu](https://github.com/Aragami1408)
 - Dilan Augustin
 - Aryan Sivakumar
 
